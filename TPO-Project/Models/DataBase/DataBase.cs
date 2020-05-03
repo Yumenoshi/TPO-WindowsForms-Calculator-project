@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TPO_Project.Models;
+using WP_Project.Models;
 
-namespace TPO_Project.DataBase
+namespace WP_Project.DataBase
 {
     public class DataBase : IDataBase
     {

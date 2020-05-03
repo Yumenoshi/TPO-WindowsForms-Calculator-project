@@ -1,4 +1,4 @@
-﻿namespace TPO_Project.History.Views
+﻿namespace WP_Project.History.Views
 {
     partial class HistoryForm
     {

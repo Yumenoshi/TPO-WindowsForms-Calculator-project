@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPO_Project.History
+namespace WP_Project.History
 {
     class HistoryContract
     {

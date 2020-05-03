@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPO_Project.Calculator.Presenters
+namespace WP_Project.Calculator.Presenters
 {
     class GenericCalculator<T>
     {

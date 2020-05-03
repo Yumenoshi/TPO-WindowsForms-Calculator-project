@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace TPO_Project.Models
+namespace WP_Project.Models
 {
     class RegexHandler : Calculator.CalculatorContract.IRegexInterface
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TPO_Project
+namespace WP_Project
 {
     static class Program
     {

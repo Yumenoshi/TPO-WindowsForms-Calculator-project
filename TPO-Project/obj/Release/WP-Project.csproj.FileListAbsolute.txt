@@ -1,0 +1,11 @@
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\bin\Release\TPO-Project.exe.config
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\bin\Release\TPO-Project.exe
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\bin\Release\TPO-Project.pdb
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\WP-Project.csprojAssemblyReference.cache
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\WP_Project.Calculator.Views.CalculatorForm.resources
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\WP_Project.History.Views.HistoryForm.resources
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\TPO_Project.Properties.Resources.resources
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\WP-Project.csproj.GenerateResource.cache
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\WP-Project.csproj.CoreCompileInputs.cache
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\TPO-Project.exe
+E:\Studia\TPO\Projekt\TPO-WindowsForms-Calculator-project\TPO-Project\obj\Release\TPO-Project.pdb

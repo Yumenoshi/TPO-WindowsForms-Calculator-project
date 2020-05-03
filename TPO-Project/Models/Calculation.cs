@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPO_Project.Models
+namespace WP_Project.Models
 {
     public class Calculation
     {

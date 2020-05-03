@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TPO_Project.Properties
+namespace WP_Project.Properties
 {
 
 

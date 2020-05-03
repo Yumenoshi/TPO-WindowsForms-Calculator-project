@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using TPO_Project.Models;
+using WP_Project.Models;
 
-namespace TPO_Project.History.Views
+namespace WP_Project.History.Views
 {
 
     public partial class HistoryForm : Form, HistoryContract.IHistoryView

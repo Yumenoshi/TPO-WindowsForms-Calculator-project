@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using TPO_Project.Models;
+using WP_Project.Models;
 
-namespace TPO_Project.Calculator.Views
+namespace WP_Project.Calculator.Views
 {
     public partial class CalculatorForm : Form, CalculatorContract.ICalculatorView
     {

@@ -4,9 +4,9 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TPO_Project.Models;
+using WP_Project.Models;
 
-namespace TPO_Project.Calculator.Presenters
+namespace WP_Project.Calculator.Presenters
 {
     class CalculatorPresenter : Calculator.CalculatorContract.ICalculatorPresenter
     {

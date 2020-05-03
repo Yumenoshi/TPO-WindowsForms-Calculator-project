@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TPO_Project.DataBase;
+using WP_Project.DataBase;
 
-namespace TPO_Project.History.Presenters
+namespace WP_Project.History.Presenters
 {
     class HistoryPresenter : HistoryContract.IHistoryPresenter
     {

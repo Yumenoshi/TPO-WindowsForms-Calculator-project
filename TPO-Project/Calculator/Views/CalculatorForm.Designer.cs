@@ -1,4 +1,4 @@
-﻿namespace TPO_Project.Calculator.Views
+﻿namespace WP_Project.Calculator.Views
 {
     partial class CalculatorForm
     {

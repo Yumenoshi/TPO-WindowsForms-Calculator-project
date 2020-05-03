@@ -1,0 +1,6 @@
+8;+;8;16;Integer
+5;+;2.8;7.8;Double
+5;-;-8;5;Unsigned Integer
+5;-;5;0;Unsigned Integer
+5;-;8;4294967293;Unsigned Integer
+5;*;2;10;Integer

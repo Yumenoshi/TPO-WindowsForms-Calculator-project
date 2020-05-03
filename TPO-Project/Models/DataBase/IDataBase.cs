@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPO_Project.DataBase
+namespace WP_Project.DataBase
 {
     public interface IDataBase
     {
